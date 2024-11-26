@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutApplication</string>
+    <string name="app_header">Aplikacje Mobilne</string>
+    <string name="dialog_text">Udało się wyświetlić alert!</string>
+    <string name="dialog_title">Brawo!</string>
+    <string name="dialog_confirm">Ok</string>
+    <string name="dialog_cancel">Anuluj</string>
+</resources>

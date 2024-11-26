@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="30dp"
+    android:viewportWidth="100"
+    android:viewportHeight="20">
+    <!-- Bar -->
+    <path
+        android:fillColor="#A9A9A9"
+        android:pathData="M0,8h30v4h-30z"
+        android:strokeWidth="0"
+        android:strokeColor="#000000" />
+    <!-- Collar -->
+    <path
+        android:fillColor="#808080"
+        android:pathData="M30,6h3v8h-3z"
+        android:strokeWidth="0"
+        android:strokeColor="#000000" />
+    <!-- Sleeve -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M33,7h42v6h-42z"
+        android:strokeWidth="0"
+        android:strokeColor="#000000" />
+</vector>
